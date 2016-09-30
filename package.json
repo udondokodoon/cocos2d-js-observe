@@ -1,0 +1,28 @@
+{
+  "name": "boiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cycle/core": "^7.0.0",
+    "@cycle/dom": "^12.1.0",
+    "@cycle/xstream-run": "^3.1.0",
+    "cycle-restart": "0.0.14",
+    "lodash": "^4.15.0",
+    "rx": "^4.1.0",
+    "rxjs": "^5.0.0-beta.11",
+    "typescript": "^2.0.0",
+    "xstream": "^5.3.6"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.32",
+    "@types/rx": "^2.5.30",
+    "ts-loader": "^0.8.2",
+    "webpack": "^1.13.2"
+  }
+}
